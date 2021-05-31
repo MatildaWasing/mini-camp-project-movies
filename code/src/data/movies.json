@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Pride and Prejudice",
+    "slug": "pride-and-prejudice",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg"
+  },
+  {
+    "title": "Angel has fallen",
+    "slug": "angel-has-fallen",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmRmMWZhZGItYzA4MC00ZDYyLWE0OTMtYmM0MWRiN2Q4NGU2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg"
+  },
+  {
+    "title": "Avengers",
+    "slug": "avengers",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+  }
+]
